@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Servicos</string>
+    <string name="informacoes">Informações</string>
+    <string name="buscar">Buscar</string>
+    <string name="digite_o_cep">Digite o CEP para buscar o endereço</string>
+    <string name="inf_indisponivel">Informação indisponível</string>
+    <string name="razaoSocial">Razão Social</string>
+    <string name="nomeFantasia">Nome Fantasia</string>
+    <string name="naturezaJuridica">Natureza Jurídica</string>
+    <string name="captialSocial">Captial Social</string>
+    <string name="dataInicio">Data Início</string>
+    <string name="porte">Porte</string>
+    <string name="tipo">Tipo</string>
+    <string name="telefone1">Telefone1</string>
+    <string name="email">Email</string>
+    <string name="cnpjInvalido">CNPJ INVÁLIDO</string>
+</resources>
